@@ -6222,7 +6222,7 @@ components:
           properties:
             uid:
               type: string
-              maxLength: 300
+              maxLength: 1000
             delta:
               enum:
               - new
